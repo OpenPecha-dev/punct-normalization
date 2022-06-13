@@ -19,6 +19,7 @@
 
 ## Description
 
+This repo normalizes all the punctuations in the pedurma text.
 
 <!-- This section provides a high-level overview for the repo -->
 
