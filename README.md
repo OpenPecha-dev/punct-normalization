@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">Punctuation-normalizer</h3>
+<h3 align="center">punctuation-normalizer</h3>
 
 
 <!-- Replace the title of the repository -->
@@ -25,6 +25,7 @@
 ## Owner
 
 - [@ngawangtrinley](https://github.com/ngawangtrinley)
+- [@kaldan7](https://github.com/kaldan7)
 - [@ta4tsering](https://github.com/ta4tsering)
 
 <!-- This section lists the owners of the repo -->
