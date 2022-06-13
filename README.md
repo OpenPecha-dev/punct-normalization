@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">punctuation-normalizer</h3>
+<h3 align="center">Punctuation-Normalizer</h3>
 
 
 <!-- Replace the title of the repository -->
