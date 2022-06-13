@@ -19,7 +19,7 @@
 
 ## Description
 
-Normalizes TIbetan Punctuations.
+Normalizes Tibetan Punctuations.
 
 <!-- This section provides a high-level overview for the repo -->
 
